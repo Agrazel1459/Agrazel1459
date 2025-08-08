@@ -3,6 +3,6 @@
 <div align="center">
   <img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/ProfileCard.png" width="250px"/>
   <a href="https://discord.gg/cE2xpEnWgz">
-    <img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/Server.png" height="800px" width="400px"/>
+    <img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/ServerInvite.png" height="800px" width="400px"/>
   </a>
 </div>
