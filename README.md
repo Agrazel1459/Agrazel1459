@@ -8,7 +8,7 @@
 
 ## 🔧 Tech Arsenal
 <p>
-  <img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN1.png" width="70px" height="70px"/>
+  <img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN1.png" width="75px" height="75px"/>
 <img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN2.png" width="60px" height="60px"/>
 <img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN3.png" width="60px" height="60px"/>
 <img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN4.png" width="60px" height="60px"/>
