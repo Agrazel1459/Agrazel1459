@@ -8,10 +8,10 @@
 
 ## 🔧 Tech Arsenal
 <img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN1.png" height="30px"/>
-<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN2.png" />
-<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN3.png" />
-<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN4.png" />
-<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN5.png" />
-<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN6.png" />
-<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN7.png" />
-<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN8.png" />
+<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN2.png" height="30px"/>
+<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN3.png" height="30px"/>
+<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN4.png" height="30px"/>
+<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN5.png" height="30px"/>
+<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN6.png" height="30px"/>
+<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN7.png" height="30px"/>
+<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/SkillBTN8.png" height="30px"/>
