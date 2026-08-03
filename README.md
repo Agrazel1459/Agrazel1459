@@ -1,4 +1,4 @@
-<img src="https://github.com/Agrazel1459/Agrazel1459/blob/main/profileGITHUB.jpg"/>
+<img style="width: 100%;" src="https://github.com/Agrazel1459/Agrazel1459/blob/main/profileGITHUB.jpg"/>
 
 ## 🧩 About Me
 - 🛠️ Frontend-focused, but not afraid to touch backend when needed.  
