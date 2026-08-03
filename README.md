@@ -97,7 +97,7 @@
 </td>
 </tr>
 <tr>
-<td width="90" align="center">🧠</td>
+<td width="90"><img src="https://raw.githubusercontent.com/Agrazel1459/Agrazel1459/main/assets/cronos-clean.png" width="70"/></td>
 <td>
 
 **[Zeus-St-Croix](https://github.com/Agrazel1459/Zeus-St-Croix)**
