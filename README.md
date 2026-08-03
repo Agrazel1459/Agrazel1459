@@ -14,7 +14,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="32"/> About Me
+## 🌟 About Me
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
@@ -38,7 +38,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30"/> Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Currently Working On
+## 🚀 Currently Working On
 
 <table>
 <tr>
@@ -109,16 +109,16 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" width="30"/> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Agrazel1459&show_icons=true&hide_border=true&theme=react&title_color=FF0062&icon_color=FF0062&text_color=ffffff&bg_color=0d1117&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agrazel1459&layout=compact&hide_border=true&theme=react&title_color=FF0062&text_color=ffffff&bg_color=0d1117" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Agrazel1459&show_icons=true&hide_border=true&theme=react&title_color=FF0062&icon_color=FF0062&text_color=ffffff&bg_color=0d1117&count_private=true&cache_seconds=86400" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agrazel1459&layout=compact&hide_border=true&theme=react&title_color=FF0062&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" width="38%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Agrazel1459&theme=react&hide_border=true&background=0D1117&ring=FF0062&fire=FF0062&currStreakLabel=FF0062" />
+<img src="https://streak-stats.demolab.com?user=Agrazel1459&theme=react&hide_border=true&background=0D1117&ring=FF0062&fire=FF0062&currStreakLabel=FF0062&cache_seconds=86400" />
 
 <br/>
 
@@ -128,7 +128,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="30"/> Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
