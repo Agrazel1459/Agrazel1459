@@ -48,67 +48,6 @@
 
 <br/>
 
-## 🚀 Currently Working On
-
-<table>
-<tr>
-<td width="90"><img src="https://raw.githubusercontent.com/Agrazel1459/Agrazel1459/main/assets/ReelSnap-clean.png" width="70"/></td>
-<td>
-
-**[ReelSnap](https://github.com/Agrazel1459/ReelSnap)**
-> A media downloader from shared link from across all platforms
-
-</td>
-</tr>
-<tr>
-<td width="90"><img src="https://raw.githubusercontent.com/Agrazel1459/Agrazel1459/main/assets/Orion-clean.png" width="70"/></td>
-<td>
-
-**[Orion](https://github.com/Agrazel1459/Orion)**
-> Local, defensive security audit toolkit for Windows and Linux which scans for compromise signs & flags
-
-</td>
-</tr>
-<tr>
-<td width="90"><img src="https://raw.githubusercontent.com/Agrazel1459/Agrazel1459/main/assets/Omnishell-clean.png" width="70"/></td>
-<td>
-
-**[OmniShell](https://github.com/Agrazel1459/OmniShell)**
-> A multi-platform A.I. terminal application with superpowers, to automate day to day tasks
-
-</td>
-</tr>
-<tr>
-<td width="90"><img src="https://raw.githubusercontent.com/Agrazel1459/Agrazel1459/main/assets/LogoLinkExport.png" width="70"/></td>
-<td>
-
-**[Link](https://github.com/Agrazel1459/Link)**
-> Our mission is to revolutionize your HTTP requests by crafting a powerhouse wrapper over the Fetch API
-
-</td>
-</tr>
-<tr>
-<td width="90"><img src="https://raw.githubusercontent.com/Agrazel1459/Agrazel1459/main/assets/lancer-clean.png" width="70"/></td>
-<td>
-
-**[Lancer](https://github.com/Agrazel1459/Lancer)**
-> A simple freelancing job board for freelancing job hunting
-
-</td>
-</tr>
-<tr>
-<td width="90"><img src="https://raw.githubusercontent.com/Agrazel1459/Agrazel1459/main/assets/cronos-clean.png" width="70"/></td>
-<td>
-
-**[Zeus-St-Croix](https://github.com/Agrazel1459/Zeus-St-Croix)**
-> A small, efficient trained AI SLM without restrictions onto any asked information
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
