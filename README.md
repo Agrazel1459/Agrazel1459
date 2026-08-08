@@ -50,9 +50,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats-arsole676s-projects.vercel.app/api?username=Agrazel1459&show_icons=true&hide_border=true&theme=react&title_color=FF0062&icon_color=FF0062&text_color=ffffff&bg_color=0d1117&count_private=true&cache_seconds=86400" width="48%"/>
 <img src="https://github-readme-stats-arsole676s-projects.vercel.app/api/top-langs/?username=Agrazel1459&layout=compact&hide_border=true&theme=react&title_color=FF0062&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" width="38%"/>
 
 <br/>
