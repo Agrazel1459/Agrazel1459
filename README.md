@@ -47,17 +47,3 @@
 </div>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-arsole676s-projects.vercel.app/api/top-langs/?username=Agrazel1459&layout=compact&hide_border=true&theme=react&title_color=FF0062&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" width="38%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Agrazel1459&theme=react&hide_border=true&background=0D1117&ring=FF0062&fire=FF0062&currStreakLabel=FF0062&cache_seconds=86400" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Agrazel1459&theme=react-dark&hide_border=true&color=FF0062&line=FF0062&point=ffffff&area=true&area_color=FF0062" width="100%"/>
-
-</div>
