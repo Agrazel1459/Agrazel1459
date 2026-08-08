@@ -84,8 +84,4 @@
 
 <img src="https://img.shields.io/badge/-FF0062?style=for-the-badge" height="4" width="120"/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Agrazel1459&style=for-the-badge&color=ff0062" alt="profile views"/>
-
 </div>
