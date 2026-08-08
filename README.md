@@ -64,24 +64,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agrazel1459&theme=react-dark&hide_border=true&color=FF0062&line=FF0062&point=ffffff&area=true&area_color=FF0062" width="100%"/>
 
 </div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-FF0062?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-FF0062?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-FF0062?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF0062?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-FF0062?style=for-the-badge" height="4" width="120"/>
-
-</div>
